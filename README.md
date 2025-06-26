@@ -38,6 +38,14 @@ python manage.py runserver
 pytest -s ui_tests/test_home.py
 ```
 
+## 🔌 How to Deactivate the Virtual Environment
+
+To exit the Python virtual environment, simply run:
+
+```bash
+deactivate
+```
+
 ## 🧪 Test Covers
 
 - Page opens in Chromium
